@@ -1,4 +1,4 @@
-I'm a passionate Backend Developer with a strong focus on AI-powered solutions. I specialize in building scalable, efficient backend systems using Node.js, Express, and PostgreSQL, all running seamlessly on Ubuntu Linux.
+I'm a passionate Backend Developer with a strong focus on AI-powered solutions. I specialize in building scalable, efficient backend systems using Node.js, BUNjs, Express, and PostgreSQL, all running seamlessly on Ubuntu Linux.
 
 What I Do:
 AI Integration: Leverage the power of AI with OpenAI API to create intelligent backend solutions that can process and analyze data like never before.
