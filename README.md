@@ -1,6 +1,6 @@
 # 👨‍💻 Brandon Jackson – CTO at Big Vision Pictures
 
-🎬 Bridging Hollywood & Blockchain | ⚙️ CTO @ BVP | ⛓️ Architecting Solana + Arbitrum Ecosystems
+🎬 Bridging Hollywood & Blockchain | ⚙️ CTO @ BVP | ⛓️ Architecting Arbitrum Ecosystems
 
 Welcome to my hub. I'm Brandon, the technical and CTO of **Big Vision Pictures (BVP)** — the world’s first crypto-native film and television studio. My work lives at the intersection of blockchain infrastructure, decentralized finance, and immersive entertainment.
 
