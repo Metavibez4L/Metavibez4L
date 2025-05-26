@@ -36,7 +36,7 @@ Welcome to my hub. I'm Brandon, the technical and CTO of **Big Vision Pictures (
 ## 📈 BVP Tokenomics Summary
 - 🔒 1B Max Supply | No burns | No rewards staking | Tier-based experiential access  
 - 🔁 Buy/Sell Tax (10%/15%) routed to ops, LP, and staking access pools  
-- 🪙 Deployed on Solana (original) and Arbitrum (wrapped) with planned multichain expansion  
+- 🪙 Deployed on Arbitrum Sepolia (original) and Arbitrum (wrapped) with planned multichain expansion  
 
 ## 🌐 What I'm Building Next
 - 🔧 Live bridge testing for BVP ↔ USDC/ETH/ARB  
