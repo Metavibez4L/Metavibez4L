@@ -6,7 +6,7 @@ Welcome to my hub. I'm Brandon, the technical and CTO of **Big Vision Pictures (
 
 ## 🛠️ Core Specializations
 - **Smart Contract Development**  
-  `Solidity` · `Rust` · `Anchor` · `Foundry` · `Hardhat` · `UUPS Proxy Patterns` · `Staking Contracts`
+  `Solidity` · `Rust` · `Foundry` · `Hardhat` · `UUPS Proxy Patterns` · `Staking Contracts`
 
 - **L2 / L3 Scaling Architectures**  
   `Arbitrum Orbit` · `Nitro` · `ERC-4337` · `Modular L3 Subchains` · `Custom Gas Tokens (BVPTOKEN)`
@@ -35,7 +35,7 @@ Welcome to my hub. I'm Brandon, the technical and CTO of **Big Vision Pictures (
 
 ## 📈 BVP Tokenomics Summary
 - 🔒 1B Max Supply | No burns | No rewards staking | Tier-based experiential access  
-- 🔁 Buy/Sell Tax (10%/15%) routed to ops, LP, and staking access pools  
+- 🔁 Buy/Sell Tax (10%/15%) "Liqudity Only" routed to ops, LP, and staking access pools  
 - 🪙 Deployed on Arbitrum Sepolia (original) and Arbitrum (wrapped) with planned multichain expansion  
 
 ## 🌐 What I'm Building Next
