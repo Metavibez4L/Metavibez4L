@@ -12,7 +12,7 @@ Welcome to my hub. I'm Brandon, the technical and CTO of **Big Vision Pictures (
   `Arbitrum Orbit` · `Nitro` · `ERC-4337` · `Modular L3 Subchains` · `Custom Gas Tokens (BVPTOKEN)`
 
 - **Ecosystem Integrations**  
-  `DAO Tooling` · `Gas Abstraction` · `Meta-Transactions` · `Solana RPC / SPL Tokens` · `DeFi Protocols (Aave, Uniswap, GMX)`
+  `DAO Tooling` · `Gas Abstraction` · `Meta-Transactions` ·  · `DeFi Protocols (Aave, Uniswap, GMX)`
 
 - **Security & Governance**  
   `Certik Audits` · `Multisig Wallet Ops` · `Gnosis Safe` · `Role-Based Access` · `Governance Participation via $ARB`
