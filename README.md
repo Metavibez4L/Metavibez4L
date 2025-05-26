@@ -1,21 +1,52 @@
-I'm a passionate Backend Developer with a strong focus on AI-powered solutions. I specialize in building scalable, efficient backend systems using Node.js, BUNjs, Express, and PostgreSQL, all running seamlessly on Ubuntu Linux.
+# 👨‍💻 Brandon Jackson – CTO at Big Vision Pictures
 
-What I Do:
-AI Integration: Leverage the power of AI with OpenAI API to create intelligent backend solutions that can process and analyze data like never before.
-API Development: Design and maintain robust RESTful APIs, ensuring secure, fast, and reliable communication between systems.
-Database Management: Efficiently handle data storage and retrieval with PostgreSQL, optimizing queries for performance and security.
-DevOps & CI/CD: Implement automation and continuous integration practices to streamline development, testing, and deployment processes.
-Core Principles:
-Backend Mastery: Focus on asynchronous JavaScript and building backend applications with Node.js and Express.
-AI-Driven Development: Incorporate AI models and APIs to enhance data processing and decision-making capabilities.
-Scalability & Reliability: Design architectures that scale gracefully and maintain high availability and reliability.
-Collaboration & Documentation: Work effectively with cross-functional teams and maintain clear, comprehensive documentation.
-Tools & Technologies:
-Languages: JavaScript (ES6+)
-Frameworks: Node.js, Express
-Databases: PostgreSQL
-Platforms: Ubuntu Linux
-AI & APIs: OpenAI API
-DevOps: CI/CD, Automation
-I'm constantly exploring new technologies and methodologies to build next-gen backend systems that are not only powerful but also intelligent. Let's build the future together!
+🎬 Bridging Hollywood & Blockchain | ⚙️ CTO @ BVP | ⛓️ Architecting Solana + Arbitrum Ecosystems
+
+Welcome to my hub. I'm Brandon, the technical and CTO of **Big Vision Pictures (BVP)** — the world’s first crypto-native film and television studio. My work lives at the intersection of blockchain infrastructure, decentralized finance, and immersive entertainment.
+
+## 🛠️ Core Specializations
+- **Smart Contract Development**  
+  `Solidity` · `Rust` · `Anchor` · `Foundry` · `Hardhat` · `UUPS Proxy Patterns` · `Staking Contracts`
+
+- **L2 / L3 Scaling Architectures**  
+  `Arbitrum Orbit` · `Nitro` · `ERC-4337` · `Modular L3 Subchains` · `Custom Gas Tokens (BVPTOKEN)`
+
+- **Ecosystem Integrations**  
+  `DAO Tooling` · `Gas Abstraction` · `Meta-Transactions` · `Solana RPC / SPL Tokens` · `DeFi Protocols (Aave, Uniswap, GMX)`
+
+- **Security & Governance**  
+  `Certik Audits` · `Multisig Wallet Ops` · `Gnosis Safe` · `Role-Based Access` · `Governance Participation via $ARB`
+
+## 🔗 Blockchain Infrastructure
+- **Solana**: Base token (BVP) deployed with controlled max supply, staking integrations, and experiential utility tiers (Bronze → Diamond).
+- **Arbitrum L2**: Live deployment of BVP ERC-20 + staking on Arbitrum Sepolia. Built UUPS upgradeable staking/gas router system.
+- **Orbit Subchain**: Architecting custom L3 for on-chain film financing, token-gated production budgets, and real-time fan governance.
+- **Bridges**: Implementing L2-native bridges for BVP ⇆ USDC/ETH/ARB transfer and liquidity bootstrapping.
+
+## 🧱 Project Highlights
+- 🎥 **Crypto-Powered Studio**: BVP operates as a blockchain-native media engine, minting funding + fan engagement into real-world IP.
+- 🚀 **Subchain Design**: Full-stack Orbit L3 enabling gasless user flows, NFT campaigns, and DAO-powered creative input.
+- 🔐 **Security First**: Multi-layer wallet protection, automated fund flows, 2FA hardware-level ops, Certik-reviewed smart contracts.
+- 🗳️ **DAO Alignment**: Deep integration with Arbitrum DAO — including governance participation, grant campaigns, and co-audits.
+
+## 🗂️ Featured Repos
+- [BVPtokenEMV](https://github.com/Metavibez4L/BVPtokenEMV) – ERC-20 + staking suite with upgradeable contracts and testnet deployments  
+- [BVP Orbit Subchain](private) – In-house Orbit SDK rollup with custom gas strategy and bridge logic  
+- [Admin Dashboard (in-progress)] – React-based frontend for staking, wallet monitoring, and DAO tooling
+
+## 📈 BVP Tokenomics Summary
+- 🔒 1B Max Supply | No burns | No rewards staking | Tier-based experiential access  
+- 🔁 Buy/Sell Tax (10%/15%) routed to ops, LP, and staking access pools  
+- 🪙 Deployed on Solana (original) and Arbitrum (wrapped) with planned multichain expansion  
+
+## 🌐 What I'm Building Next
+- 🔧 Live bridge testing for BVP ↔ USDC/ETH/ARB  
+- 🎫 On-chain ticketing and token-gated media drops  
+- 🌍 DAO grant proposal to launch fully funded Orbit L3 with entertainment-native primitives  
+
+Arbitrum Sepolia deployed
+✅ BVPToken deployed at: 0x92c63EF7A81965c6C595AC4dF69a387ecd356Fe3
+✅ BVPStaking deployed at: 0x83DBB51Dee96A70ce48DDb05f7230CcD69D698FE
+
+---
 
