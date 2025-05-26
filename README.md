@@ -1,4 +1,4 @@
-# 👨‍💻 Brandon Jackson – CTO at Big Vision Pictures
+# 👨‍💻 Brandon Jackson "Metavibez" – CTO at Big Vision Pictures
 
 🎬 Bridging Hollywood & Blockchain | ⚙️ CTO @ BVP | ⛓️ Architecting Arbitrum Ecosystems
 
