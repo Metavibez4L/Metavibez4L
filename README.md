@@ -18,7 +18,7 @@ Welcome to my hub. I'm Brandon, the technical and CTO of **Big Vision Pictures (
   `Certik Audits` · `Multisig Wallet Ops` · `Gnosis Safe` · `Role-Based Access` · `Governance Participation via $ARB`
 
 ## 🔗 Blockchain Infrastructure
-- **Arbitrum L2**: Live deployment of BVP ERC-20 + staking on Arbitrum Sepolia. Built UUPS upgradeable staking/gas router system.
+- **Arbitrum L2**: Live deployment of BVP ERC-20 + staking on Arbitrum Sepolia. 
 - **Orbit Subchain**: Architecting custom L3 for on-chain film financing, token-gated production budgets, and real-time fan governance.
 - **Bridges**: Implementing L2-native bridges for BVP ⇆ USDC/ETH/ARB transfer and liquidity bootstrapping.
 
@@ -29,7 +29,7 @@ Welcome to my hub. I'm Brandon, the technical and CTO of **Big Vision Pictures (
 - 🗳️ **DAO Alignment**: Deep integration with Arbitrum DAO — including governance participation, grant campaigns, and co-audits.
 
 ## 🗂️ Featured Repos
-- [BVPtokenEMV](https://github.com/Metavibez4L/BVPtokenEMV) – ERC-20 + staking suite with upgradeable contracts and testnet deployments  
+- [BVPtokenEMV](https://github.com/Metavibez4L/BVPtokenEMV) – ERC-20 + staking suite with NON-upgradeable contracts and testnet deployments  
 - [BVP Orbit Subchain](private) – In-house Orbit SDK rollup with custom gas strategy and bridge logic  
 - [Admin Dashboard (in-progress)] – React-based frontend for staking, wallet monitoring, and DAO tooling
 
