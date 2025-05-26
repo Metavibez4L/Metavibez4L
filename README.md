@@ -18,7 +18,6 @@ Welcome to my hub. I'm Brandon, the technical and CTO of **Big Vision Pictures (
   `Certik Audits` · `Multisig Wallet Ops` · `Gnosis Safe` · `Role-Based Access` · `Governance Participation via $ARB`
 
 ## 🔗 Blockchain Infrastructure
-- **Solana**: Base token (BVP) deployed with controlled max supply, staking integrations, and experiential utility tiers (Bronze → Diamond).
 - **Arbitrum L2**: Live deployment of BVP ERC-20 + staking on Arbitrum Sepolia. Built UUPS upgradeable staking/gas router system.
 - **Orbit Subchain**: Architecting custom L3 for on-chain film financing, token-gated production budgets, and real-time fan governance.
 - **Bridges**: Implementing L2-native bridges for BVP ⇆ USDC/ETH/ARB transfer and liquidity bootstrapping.
