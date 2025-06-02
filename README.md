@@ -44,8 +44,8 @@ Welcome to my hub. I'm Brandon, the technical and CTO of **Big Vision Pictures (
 - 🌍 DAO grant proposal to launch fully funded Orbit L3 with entertainment-native primitives  
 
 Arbitrum Sepolia deployed
-✅ BVPToken deployed at: 0x92c63EF7A81965c6C595AC4dF69a387ecd356Fe3
-✅ BVPStaking deployed at: 0x83DBB51Dee96A70ce48DDb05f7230CcD69D698FE
+✅ BVPToken deployed at:  0x159C3Dcc12841951a13e4a21459A90011C910236
+✅ BVPStaking deployed at: 0x305E61450db56e1a5e8166E5e83Eb5643A03592C
 
 ---
 
